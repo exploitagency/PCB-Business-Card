@@ -7,7 +7,9 @@ I have seen other similar PCB business cards out there but I made sure to make m
   
 Video Demo  
 -----  
-https://youtu.be/Ss94M5kzOXM  
+Click image below to view  
+[![Video Demo](https://github.com/exploitagency/PCB-Business-Card/blob/master/Images/precleanup-showing-embossed-email-copper-layer.jpg)](https://youtu.be/Ss94M5kzOXM)  
+Image is of the board before the cleanup process but it shows off the embosses copper email address well.  
   
 Hardware License  
 -----  
