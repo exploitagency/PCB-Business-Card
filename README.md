@@ -5,6 +5,10 @@ My PCB "business card" was designed with a credit card sized form factor in mind
   
 I have seen other similar PCB business cards out there but I made sure to make my project easy for people to modify for personal use as well as allowing the person receiving the business card to have something extra to play with. I believe the ease of use and giving the end user something functional vs just something to look at and throw away is what makes my project stand out. Not to mention capacitive touch sensors are always fun to use!  
   
+Video Demo  
+-----  
+https://youtu.be/Ss94M5kzOXM  
+  
 Hardware License  
 -----  
 Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)  

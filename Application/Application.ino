@@ -66,6 +66,7 @@ void loop() {
     DigiKeyboard.println(F("URL:   https://www.LegacySecurityGroup.com"));
     DigiKeyboard.println(F(""));
     DigiKeyboard.println(F("Board designed, assembled, and programmed by Corey Harding."));
+    DigiKeyboard.println(F("GitHub: https://github.com/exploitagency/PCB-Business-Card"));
     DigiKeyboard.println(F("This board also doubles as an ATtiny85 development board."));
     DigiKeyboard.println(F("It is loaded with the micronucleus bootloader and can be programmed using the Arduino IDE."));
     DigiKeyboard.println(F("Select \"Board: Digispark (Default - 16.5mhz)\" and Programmer: \"Micronucleus\"."));
