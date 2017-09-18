@@ -20,6 +20,7 @@ The hardware is based on the minimal schematic for a digispark/micronucleus comp
 Software  
 -----  
 Utilizes the TinyTouchLib: https://github.com/cpldcpu/TinyTouchLib  
+Bootloader: https://github.com/micronucleus/  
   
 Initial programming instructions if building the board from scratch.  
 -----  
